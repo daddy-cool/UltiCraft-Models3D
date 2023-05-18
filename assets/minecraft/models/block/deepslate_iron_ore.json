@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/iron_ore",
+  "textures": {
+    "all": "minecraft:block/models/deepslate_iron_ore"
+  }
+}
