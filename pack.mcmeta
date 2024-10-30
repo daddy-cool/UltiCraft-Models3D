@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "§63D Models §7v2.15.0 §3by MeeniMc\n§8Apache-2.0 ~ with GrandMagus' assets"
+    "pack_format": 42,
+    "supported_formats": { "min_inclusive": 16, "max_inclusive": 42 },
+    "description": "§63D Models §2v2.42.0 §rApache-2.0\n§9modrinth ulticraft-models-3d\n§rby MeeniMc with assets from GrandMagus"
   }
 }
