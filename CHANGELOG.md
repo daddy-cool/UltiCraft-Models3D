@@ -3,6 +3,10 @@ v2.42.0 for Minecraft 1.20.2, 1.20.3
 
 This release targets 1.20.3 and is expected to work as intended on prior Minecraft versions.
 
+Added
+-----
+* Variated lily pads with occasional flowers
+
 Removed
 -------
 * Items would look flat when thrown on ground (I didn't like the style).
