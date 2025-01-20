@@ -1,7 +1,23 @@
-v2.42.0 for Minecraft 1.20.2, 1.20.3
+v2.44.0 for Minecraft 1.21.4
+============================
+
+This release targets 1.21.4 and is expected to work as intended on prior Minecraft versions.
+
+Added
+-----
+
+Removed
+-------
+
+Fixed
+-----
+* Bee hives and Bee Nests would not have a 3D appearance in 1.21.4 and above. 
+
+
+v2.42.0 for Minecraft 1.21.2, 1.21.3
 ====================================
 
-This release targets 1.20.3 and is expected to work as intended on prior Minecraft versions.
+This release targets 1.21.3 and is expected to work as intended on prior Minecraft versions.
 
 Added
 -----
@@ -16,7 +32,7 @@ Cleanup
 -------
 * Unreferenced models removed.
 
-v2.15.0 for Minecraf 1.20.1
+v2.15.0 for Minecraft 1.20.1
 ===========================
 
 This release targets 1.20.1 and is expected to work as intended on prior Minecraft versions.
